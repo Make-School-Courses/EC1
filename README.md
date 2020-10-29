@@ -18,7 +18,7 @@ Students will:
 
 ## Courses That Fulfill This Requirement
 
-| Class |          Date          |                 Topics                  |
+| Class |          Title          |                 Units                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  [EC 1000] |  Effective Communication 1: Verbal and Visual Literacies | 4.00 Units |
 
