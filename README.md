@@ -21,13 +21,14 @@ Students will:
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
 |  EC 1000 |  Effective Communication 1: Verbal and Visual Literacies | [Fall 2020] - Async | 4.00 Units |
-|  EC 1000 |  Effective Communication 1: Verbal and Visual Literacies | [Fall 2020] - Section B | 4.00 Units |
-|  EC 1000 |  Effective Communication 1: Verbal and Visual Literacies | [Fall 2020] - Section C | 4.00 Units |
+|  EC 1000 |  Effective Communication 1: Verbal and Visual Literacies | [Fall 2020 B] - Section B | 4.00 Units |
+|  EC 1000 |  Effective Communication 1: Verbal and Visual Literacies | [Fall 2020 C] - Section C | 4.00 Units |
 
 EC 1000 - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning
 
 
-[Fall 2020]:https://drive.google.com/file/d/1OegybHRHTegCp8Fwup6DHvFvxwnNgKWM/view?usp=sharing
+[Fall 2020 B]:https://drive.google.com/file/d/1OegybHRHTegCp8Fwup6DHvFvxwnNgKWM/view?usp=sharing
+[Fall 2020 C]:https://drive.google.com/file/d/1gDehkaDgSg-rxha5VR9g0hOKP9jwacW2/view?usp=sharing
 
 
 ## Make School Course Policies
