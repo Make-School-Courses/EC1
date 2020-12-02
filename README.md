@@ -20,6 +20,7 @@ Students will:
 
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
+|  EC 1000 |  Effective Communication 1: Verbal and Visual Literacies | Spring 2021 | 4.00 Units |
 |  EC 1000 |  Effective Communication 1: Verbal and Visual Literacies | [Fall 2020 A] - Async | 4.00 Units |
 |  EC 1000 |  Effective Communication 1: Verbal and Visual Literacies | [Fall 2020 B] - Section B | 4.00 Units |
 |  EC 1000 |  Effective Communication 1: Verbal and Visual Literacies | [Fall 2020 C] - Section C | 4.00 Units |
